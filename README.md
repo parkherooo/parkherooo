@@ -21,3 +21,12 @@ Java & Javascript 풀스택 웹 애플리케이션 개발자 박영웅입니다.
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+
+
+
+![Readme Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fksy90101%2Fhit-counter)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gyqls234)](https://solved.ac/gyqls234/)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AtomicLiquors&layout=donut&theme=gruvbox_light)
