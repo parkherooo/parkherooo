@@ -1,6 +1,7 @@
-##박영웅
-
+<h3>
 Java & Javascript 풀스택 웹 애플리케이션 개발자 박영웅입니다.
+</h3>
+
 <br>
 <br>
 <p><b>🔍 Skills 🔍</b></p>
